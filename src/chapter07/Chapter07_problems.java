@@ -35,5 +35,13 @@ public class Chapter07_problems {
     // e. FireEngine 과 Ambulance 는 같은 선상의 하위 클래스이다.
     // 형변환이 되지 않는다.
 
-    //
+    // 07_21
+    // Movable 구현 클래스, 하위 클래스
+
+    // 07_24
+    // e. 인터페이스의 장점..? protected..?
+
+    // 07_29
+    // 지역 클래스 : 메서드 안 클래스
+    // 
 }
